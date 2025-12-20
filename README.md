@@ -8,7 +8,6 @@ A simple Python program that converts temperature:
 - Takes user input from terminal
 - Converts Celsius → Fahrenheit
 - Converts Fahrenheit → Celsius
-- Beginner-friendly Python code
 
 ## How It Works
 1. User enters temperature in Celsius → program prints Fahrenheit.
